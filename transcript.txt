@@ -1,0 +1,469 @@
+[0.00s -> 6.00s]  And if you didn't receive any notification then failure notification then good and sometimes if you get
+[6.00s -> 9.00s]  can have someone to
+[9.00s -> 16.00s]  I kept a failure notification like model failure notification I have not kept it as monitoring
+[16.00s -> 19.00s]  it would be like you know calling out monitoring session
+[19.00s -> 23.00s]  but if it is happening this regular I'll keep a strength wise thing
+[23.00s -> 29.00s]  right now like for example if you call this as a bug then only I go ahead and reset
+[29.00s -> 36.00s]  if you want to go in that way or if you want to keep a monitoring continuous monitoring story
+[36.00s -> 38.00s]  for three sprints I'll keep like that
+[38.00s -> 43.00s]  yeah I think continuous monitoring will be good otherwise
+[43.00s -> 49.00s]  yeah we will sometimes we will have zero notification but no one in our team will pick and gun that
+[49.00s -> 52.00s]  even we will forget to check the
+[52.00s -> 57.00s]  we'll we'll do that
+[57.00s -> 62.00s]  I'll keep like that
+[62.00s -> 65.00s]  yes I like what you want to do
+[65.00s -> 67.00s]  yeah I just strategy one right
+[67.00s -> 72.00s]  I pinged Antonio he had to replay once he replayed I will let you know
+[72.00s -> 74.00s]  yeah please let me know
+[74.00s -> 75.00s]  yeah
+[75.00s -> 80.00s]  8th one I've started the analysis 50 so right now we can see more PC keys are
+[80.00s -> 83.00s]  available in comparison to the check we did last time
+[83.00s -> 88.00s]  but still someone was saying I'll group it as you asked based on
+[88.00s -> 89.00s]  yeah
+[89.00s -> 97.00s]  specific dealer I if you want I can give you a dealer code and serial number prefix
+[97.00s -> 100.00s]  that I used for analysis last time
+[101.00s -> 104.00s]  so you can start with that
+[104.00s -> 106.00s]  but you understood what needs to be done
+[106.00s -> 108.00s]  I share a couple of speakers
+[108.00s -> 113.00s]  so I hope you added the description in the story and the acceptance criteria
+[113.00s -> 115.00s]  but anyways print is ending today
+[115.00s -> 118.00s]  so start working on it
+[118.00s -> 123.00s]  I think it may move to the next print also since you just began it today
+[123.00s -> 127.00s]  that's fine but I'll share some sample dealer code
+[127.00s -> 132.00s]  serial number prefix to do like there will be some manual one-to-one matching
+[132.00s -> 136.00s]  so between aftermarket prediction process and bomb
+[136.00s -> 141.00s]  we need to compare all the key columns based on which the PCT is calculated
+[141.00s -> 145.00s]  component component group serial number prefix body
+[145.00s -> 149.00s]  PWC in that particular column
+[149.00s -> 155.00s]  so usually the issue will happen in the component group and PWC only mainly
+[155.00s -> 159.00s]  other columns will be will not create an issue
+[159.00s -> 161.00s]  so these two only we had to check
+[161.00s -> 163.00s]  okay I'll check them
+[163.00s -> 167.00s]  yeah okay I'll pin you the dealer code and serial number prefix combo
+[167.00s -> 169.00s]  okay yeah
+[169.00s -> 175.00s]  10th one I'm adding the comments I'll add tag them and close it today
+[175.00s -> 177.00s]  tag them and close it
+[177.00s -> 181.00s]  10th one in the given statement
+[181.00s -> 184.00s]  and the book he says okay I'll close it quickly
+[184.00s -> 187.00s]  and what is happening I'll close that also
+[187.00s -> 191.00s]  and yesterday we had a call with Alex and Damian
+[191.00s -> 194.00s]  they said the priority ones we'll have to remove
+[194.00s -> 196.00s]  we'll pick that story up next print
+[196.00s -> 198.00s]  and let us know
+[198.00s -> 200.00s]  I wanna point
+[200.00s -> 203.00s]  yesterday those folders have to do that
+[203.00s -> 205.00s]  can any of these guys can do
+[205.00s -> 209.00s]  there is no hurry on that right
+[209.00s -> 212.00s]  they will at least understand
+[212.00s -> 214.00s]  on the thing
+[214.00s -> 218.00s]  we can give one of these stories to in turn
+[218.00s -> 220.00s]  remove parity stories from it
+[220.00s -> 225.00s]  it's just an activity but they'll get an idea how to do it
+[225.00s -> 229.00s]  no no can you repeat sorry I didn't follow the phone conversation
+[229.00s -> 233.00s]  so during when Damian was working on this lens equipment
+[233.00s -> 235.00s]  he has created a lot of parity
+[235.00s -> 237.00s]  we don't need that
+[237.00s -> 240.00s]  this is a clean up activity
+[240.00s -> 243.00s]  so if we can assign it to one of the
+[243.00s -> 245.00s]  yeah we can do that
+[245.00s -> 248.00s]  and Amelia was also mentioning about
+[248.00s -> 251.00s]  the list of snowflake streamed dashboards
+[251.00s -> 255.00s]  I think per head she had like 3 or 4
+[255.00s -> 261.00s]  so I hope 80 wise they are in a very comfortable position right now
+[261.00s -> 264.00s]  I see multiple sessions being going on
+[264.00s -> 267.00s]  we can add stories for those as well
+[267.00s -> 271.00s]  yeah I think at that point they didn't have snowflake access
+[271.00s -> 274.00s]  and that was urgent from that engine so
+[274.00s -> 276.00s]  I had to finish at 30
+[276.00s -> 280.00s]  is anything else left for them to work on
+[280.00s -> 283.00s]  from that point no
+[283.00s -> 289.00s]  okay then we can place their help for this parity dashboards
+[289.00s -> 294.00s]  this is one and is there any dashboard upcoming
+[294.00s -> 299.00s]  so these ways can you know get hands-on on creating streamed dashboards
+[299.00s -> 303.00s]  even if it is smaller you can give this for a trial as well
+[303.00s -> 305.00s]  it's totally fine just think about it
+[305.00s -> 309.00s]  the agent thing I don't have to take a look at it
+[309.00s -> 312.00s]  come up with ideas how she's working on that
+[312.00s -> 315.00s]  maybe we can add a story for that
+[315.00s -> 317.00s]  agent thing right
+[317.00s -> 320.00s]  have you worked on this
+[320.00s -> 322.00s]  I'll just do the documentation
+[322.00s -> 324.00s]  I can move with an idea please
+[324.00s -> 326.00s]  what agent have you worked on
+[326.00s -> 330.00s]  I've worked on track for my purpose I didn't work on it
+[330.00s -> 331.00s]  I hear that
+[331.00s -> 333.00s]  you're allowed over here
+[333.00s -> 335.00s]  I don't know
+[335.00s -> 337.00s]  check that
+[337.00s -> 339.00s]  start with a marble one maybe
+[339.00s -> 342.00s]  using agent like a simple thing
+[342.00s -> 345.00s]  give a question it will give us the answer
+[345.00s -> 348.00s]  drag I don't think is there
+[348.00s -> 351.00s]  if you're going with drag architecture
+[351.00s -> 355.00s]  see and the other team has worked on using
+[355.00s -> 357.00s]  land chain
+[357.00s -> 360.00s]  if you try to do that as well
+[360.00s -> 362.00s]  you can connect to a person as well
+[362.00s -> 365.00s]  another team they were used to they used to report on early
+[365.00s -> 367.00s]  they can help you
+[367.00s -> 371.00s]  understanding or how to get access on this
+[372.00s -> 375.00s]  open the APIs
+[375.00s -> 377.00s]  they won't get that easily
+[377.00s -> 380.00s]  but again you need to check with
+[380.00s -> 382.00s]  at this point we thought
+[382.00s -> 384.00s]  the agent always create a demo
+[384.00s -> 386.00s]  you can just open it
+[386.00s -> 388.00s]  not even Cortex once we have a demo ready
+[388.00s -> 390.00s]  and it is fine we can go ahead
+[390.00s -> 392.00s]  and get access for Cortex
+[392.00s -> 396.00s]  Cortex we don't have trial version
+[396.00s -> 398.00s]  no no we don't have
+[398.00s -> 401.00s]  we need to submit a use case to get the smallest
+[401.00s -> 403.00s]  where host access
+[408.00s -> 409.00s]  nice
+[409.00s -> 412.00s]  and that ET to PE chain has already gone
+[412.00s -> 414.00s]  in all satellite teams
+[414.00s -> 416.00s]  after market prediction and other process
+[416.00s -> 418.00s]  I'll make the change to that
+[418.00s -> 420.00s]  we will split it in next print for you
+[420.00s -> 422.00s]  we can
+[424.00s -> 426.00s]  what are the timings
+[426.00s -> 428.00s]  what time
+[428.00s -> 430.00s]  how much time we have to do all the changes
+[430.00s -> 432.00s]  it has already gone
+[432.00s -> 434.00s]  so that our process won't be filled
+[434.00s -> 436.00s]  equipment or
+[436.00s -> 438.00s]  whatever is the daily ones
+[438.00s -> 440.00s]  based on the care and whatever is happening everyday
+[440.00s -> 442.00s]  we will just change that
+[442.00s -> 444.00s]  but for you equipment and prediction
+[444.00s -> 446.00s]  most of the time
+[446.00s -> 448.00s]  that we can do later
+[448.00s -> 450.00s]  automatic prediction repair
+[450.00s -> 452.00s]  and maybe I don't know
+[452.00s -> 454.00s]  since I've already identified
+[454.00s -> 456.00s]  we'll have to check that
+[456.00s -> 458.00s]  let's do it
+[458.00s -> 460.00s]  Tarun has said I kept it for him
+[460.00s -> 462.00s]  because nobody is giving me date
+[462.00s -> 464.00s]  when only when 2TM is giving me date
+[464.00s -> 466.00s]  they are going to go to hell
+[466.00s -> 468.00s]  nobody is giving me date
+[468.00s -> 470.00s]  so it went all right
+[470.00s -> 472.00s]  do we get
+[472.00s -> 474.00s]  error
+[474.00s -> 476.00s]  or something
+[476.00s -> 478.00s]  it is a weak condition
+[478.00s -> 480.00s]  it would always be false
+[480.00s -> 482.00s]  now since that pattern is not matching
+[482.00s -> 484.00s]  so we have a date on us
+[484.00s -> 486.00s]  we have a date on us
+[486.00s -> 488.00s]  make that change before 2 days run out
+[488.00s -> 490.00s]  Tarun this is for you as well
+[490.00s -> 492.00s]  right
+[492.00s -> 494.00s]  that is wrong
+[494.00s -> 496.00s]  make that change before 2 days run out
+[496.00s -> 498.00s]  Tarun this is for you
+[498.00s -> 500.00s]  Tarun this is for you as well
+[500.00s -> 502.00s]  right
+[502.00s -> 504.00s]  yeah
+[508.00s -> 510.00s]  I don't know about
+[510.00s -> 512.00s]  would it appear in but he has to
+[512.00s -> 514.00s]  he has to
+[514.00s -> 516.00s]  he has to
+[516.00s -> 518.00s]  he also used some
+[518.00s -> 520.00s]  CAD equipment
+[520.00s -> 522.00s]  so we have updated the view accordingly
+[522.00s -> 524.00s]  at this moment he has to
+[524.00s -> 526.00s]  update it
+[526.00s -> 528.00s]  update
+[528.00s -> 530.00s]  Tarun you got it right
+[530.00s -> 532.00s]  what needs to change
+[532.00s -> 534.00s]  yeah
+[534.00s -> 536.00s]  Tarun
+[536.00s -> 538.00s]  yeah yeah I can hear you
+[538.00s -> 540.00s]  means look into that
+[540.00s -> 542.00s]  so we want people to from that
+[542.00s -> 544.00s]  means we were proactive and
+[544.00s -> 546.00s]  we don't want to hear that
+[546.00s -> 548.00s]  yeah right
+[548.00s -> 550.00s]  so the 45%
+[550.00s -> 552.00s]  we need to get that through from the range
+[552.00s -> 554.00s]  and the percent
+[554.00s -> 556.00s]  yeah
+[562.00s -> 564.00s]  Bharat
+[564.00s -> 566.00s]  on that
+[566.00s -> 568.00s]  analysis thing
+[568.00s -> 570.00s]  Kanan helped him in the shape point
+[570.00s -> 572.00s]  history
+[572.00s -> 574.00s]  he has some bandwidth
+[574.00s -> 576.00s]  that's the only thing
+[576.00s -> 578.00s]  yeah he started it
+[578.00s -> 580.00s]  he knows so
+[580.00s -> 582.00s]  no no no
+[582.00s -> 584.00s]  Kanan pick it up
+[584.00s -> 586.00s]  we have some bandwidth
+[586.00s -> 588.00s]  yeah
+[588.00s -> 590.00s]  basically we need to decide an approach
+[590.00s -> 592.00s]  it's not a MWA
+[592.00s -> 594.00s]  definitely
+[594.00s -> 596.00s]  we need to find the
+[596.00s -> 598.00s]  different level of service
+[598.00s -> 600.00s]  I can complete that one
+[600.00s -> 602.00s]  I create or create the diagram
+[602.00s -> 604.00s]  get the approval from the range
+[604.00s -> 606.00s]  and then I give it to team to implementation
+[606.00s -> 608.00s]  okay
+[610.00s -> 612.00s]  hey hi Ditti
+[612.00s -> 614.00s]  I believe this will also
+[614.00s -> 616.00s]  go to next print right
+[616.00s -> 618.00s]  no for the current sprint
+[618.00s -> 620.00s]  the order number 7
+[620.00s -> 622.00s]  I have completed
+[622.00s -> 624.00s]  but a follow up story will be there from next print
+[624.00s -> 626.00s]  similarly for 57
+[626.00s -> 628.00s]  it's only about modifying filters that I
+[628.00s -> 630.00s]  can complete but I will be
+[630.00s -> 632.00s]  started on the model tuning
+[632.00s -> 634.00s]  which I think you have added from next print
+[634.00s -> 636.00s]  so I will close it
+[636.00s -> 638.00s]  by the update
+[638.00s -> 640.00s]  sure
+[640.00s -> 642.00s]  yes Parvav
+[642.00s -> 644.00s]  he was like one process
+[644.00s -> 646.00s]  ran but she was telling
+[646.00s -> 648.00s]  the output is more
+[648.00s -> 650.00s]  I have checked the input
+[650.00s -> 652.00s]  scripts as well again in UV1
+[652.00s -> 654.00s]  and UV2
+[654.00s -> 656.00s]  it seems fine to me
+[656.00s -> 658.00s]  I just need to ask which
+[658.00s -> 660.00s]  UV1 tables she has used
+[660.00s -> 662.00s]  but I have asked her yesterday
+[662.00s -> 664.00s]  but I didn't get any update actually
+[664.00s -> 666.00s]  when have you asked
+[666.00s -> 668.00s]  because she replied to my chat
+[668.00s -> 670.00s]  yesterday
+[670.00s -> 672.00s]  there was another thing
+[672.00s -> 674.00s]  and I don't know
+[674.00s -> 676.00s]  what to answer on that
+[676.00s -> 678.00s]  you were also there right
+[680.00s -> 682.00s]  sorry which one
+[682.00s -> 684.00s]  the lens e-commerce group chat
+[684.00s -> 686.00s]  are the
+[686.00s -> 688.00s]  Ping, David and Jing that we are facing
+[688.00s -> 690.00s]  delay and etc
+[690.00s -> 692.00s]  she said
+[692.00s -> 694.00s]  because of the
+[694.00s -> 696.00s]  validation test
+[696.00s -> 698.00s]  now we have one more process to
+[698.00s -> 700.00s]  finalize
+[704.00s -> 706.00s]  what is that one more process
+[706.00s -> 708.00s]  she is going to tell us no
+[708.00s -> 710.00s]  we already know about this
+[710.00s -> 712.00s]  what he knows this
+[712.00s -> 714.00s]  what are doing
+[716.00s -> 718.00s]  now we have one more
+[718.00s -> 720.00s]  one more process to finalize
+[722.00s -> 724.00s]  she is still
+[724.00s -> 726.00s]  one more process
+[728.00s -> 730.00s]  one more script right
+[730.00s -> 732.00s]  she said one more process
+[732.00s -> 734.00s]  is there one more script
+[734.00s -> 736.00s]  one more component
+[736.00s -> 738.00s]  I think
+[738.00s -> 740.00s]  this is one script left
+[740.00s -> 742.00s]  I think yesterday
+[742.00s -> 744.00s]  we were able to run one script
+[744.00s -> 746.00s]  there is one more script
+[746.00s -> 748.00s]  she is giving memory out of here
+[748.00s -> 750.00s]  I think that she is talking about
+[750.00s -> 752.00s]  it might be
+[752.00s -> 754.00s]  and she told she will execute it
+[754.00s -> 756.00s]  from her end and she will come back
+[756.00s -> 758.00s]  but after that I asked
+[758.00s -> 760.00s]  her input she has interpreted
+[760.00s -> 762.00s]  Steve what we can do
+[762.00s -> 764.00s]  is from her end there is
+[764.00s -> 766.00s]  delay every time when we tag
+[766.00s -> 768.00s]  either David or Elvis
+[768.00s -> 770.00s]  only then she is responding
+[770.00s -> 772.00s]  so let's have like a recurring
+[772.00s -> 774.00s]  daily connect with her at least for
+[774.00s -> 776.00s]  15 minutes minimum
+[776.00s -> 778.00s]  it is going to happen
+[778.00s -> 780.00s]  every day like see basically
+[780.00s -> 782.00s]  we are facing some issues right
+[782.00s -> 784.00s]  either validation or there is some
+[784.00s -> 786.00s]  script changes whatever instance
+[786.00s -> 788.00s]  we are using it is not working
+[788.00s -> 790.00s]  we will do like a daily
+[790.00s -> 792.00s]  stand up with her
+[792.00s -> 794.00s]  just for topics
+[794.00s -> 796.00s]  what do you guys say
+[796.00s -> 798.00s]  we can do
+[798.00s -> 800.00s]  at least 15 we can schedule
+[800.00s -> 802.00s]  if it is required
+[802.00s -> 804.00s]  we will meet otherwise
+[804.00s -> 806.00s]  we will cancel the script
+[806.00s -> 808.00s]  yes yes
+[808.00s -> 810.00s]  she is available now
+[810.00s -> 812.00s]  you can ping her and get the
+[812.00s -> 814.00s]  details
+[814.00s -> 816.00s]  she is responding
+[816.00s -> 818.00s]  like even our
+[818.00s -> 820.00s]  out time to 130
+[820.00s -> 822.00s]  date
+[822.00s -> 824.00s]  he is not getting sleep
+[824.00s -> 826.00s]  I think because of his talk
+[826.00s -> 828.00s]  yeah
+[828.00s -> 830.00s]  we are also
+[830.00s -> 832.00s]  coming
+[832.00s -> 834.00s]  we are coming ahead
+[834.00s -> 836.00s]  yeah man Varath
+[836.00s -> 838.00s]  yes the first one
+[838.00s -> 840.00s]  can you follow up again
+[840.00s -> 842.00s]  I think Nikta also replied
+[842.00s -> 844.00s]  Nikta replied and she
+[844.00s -> 846.00s]  tagged sandcombs already
+[846.00s -> 848.00s]  what should I do on that
+[850.00s -> 852.00s]  we need to wait
+[852.00s -> 854.00s]  we cannot do anything
+[854.00s -> 856.00s]  okay
+[856.00s -> 858.00s]  and the last one
+[858.00s -> 860.00s]  we want to make changes
+[860.00s -> 862.00s]  decrease the instant size
+[862.00s -> 864.00s]  since it is a daily process
+[864.00s -> 866.00s]  and we are utilizing that for a large
+[866.00s -> 868.00s]  and this process is taking around 5 hours
+[868.00s -> 870.00s]  3 hours
+[870.00s -> 872.00s]  even if it ages to
+[872.00s -> 874.00s]  less instant
+[874.00s -> 876.00s]  it may take 2-3 hours extra
+[876.00s -> 878.00s]  but I don't think
+[878.00s -> 880.00s]  there is any difference we have
+[880.00s -> 882.00s]  with this table since it is running daily
+[882.00s -> 884.00s]  so that 6 and X
+[884.00s -> 886.00s]  we have already limit
+[886.00s -> 888.00s]  in DST so it won't fail again
+[888.00s -> 890.00s]  if we change to 16 X
+[890.00s -> 892.00s]  but yeah we are doing like we need to run
+[892.00s -> 894.00s]  few times
+[894.00s -> 896.00s]  if it is a process it takes more than
+[896.00s -> 898.00s]  I can pick the time then we will change it to 24
+[898.00s -> 900.00s]  right large and I will request for one more instant
+[900.00s -> 902.00s]  in DST
+[904.00s -> 906.00s]  hey this request
+[906.00s -> 908.00s]  is coming via
+[908.00s -> 910.00s]  David right
+[910.00s -> 912.00s]  like Alvaro and David is also in loop
+[912.00s -> 914.00s]  right
+[914.00s -> 916.00s]  no
+[916.00s -> 918.00s]  it's a DST account may as by
+[918.00s -> 920.00s]  I usually
+[920.00s -> 922.00s]  who plans to discuss with me
+[924.00s -> 926.00s]  which is instant limit
+[926.00s -> 928.00s]  instant failure
+[928.00s -> 930.00s]  yeah I didn't check because
+[930.00s -> 932.00s]  since we are reducing it is right
+[932.00s -> 934.00s]  since already we have a limit
+[934.00s -> 936.00s]  if it is working fine then
+[936.00s -> 938.00s]  we can use the 16 X
+[938.00s -> 940.00s]  otherwise if we want to increase then
+[940.00s -> 942.00s]  I can connect with the energy and
+[942.00s -> 944.00s]  how we can fix this
+[944.00s -> 946.00s]  no you mentioned
+[946.00s -> 948.00s]  you are going to request for another
+[948.00s -> 950.00s]  instance also okay
+[950.00s -> 952.00s]  so depending on the need
+[952.00s -> 954.00s]  basis
+[954.00s -> 956.00s]  correct
+[960.00s -> 962.00s]  even we won't get cast
+[962.00s -> 964.00s]  if we get one more instance
+[964.00s -> 966.00s]  in slides for DST
+[966.00s -> 968.00s]  only if we use only then
+[968.00s -> 970.00s]  we will get cast
+[970.00s -> 972.00s]  for that
+[972.00s -> 974.00s]  okay so now that analysis is done
+[974.00s -> 976.00s]  what next for the story
+[976.00s -> 978.00s]  I think I am waiting
+[978.00s -> 980.00s]  for changes from the
+[980.00s -> 982.00s]  we need to merge in DST
+[982.00s -> 984.00s]  fraud and we need to run the process
+[984.00s -> 986.00s]  I need to monitor
+[986.00s -> 988.00s]  for few days then based on the time
+[988.00s -> 990.00s]  it will decide
+[990.00s -> 992.00s]  okay it will move to next print also
+[994.00s -> 996.00s]  you can close I will create a monitor
+[996.00s -> 998.00s]  story in that case
+[998.00s -> 1000.00s]  yeah monitor
+[1000.00s -> 1002.00s]  you are the
+[1006.00s -> 1008.00s]  yeah I am running
+[1008.00s -> 1010.00s]  so auto number
+[1010.00s -> 1012.00s]  36 I have shared with Antonio
+[1012.00s -> 1014.00s]  running that conflict
+[1014.00s -> 1016.00s]  once he responds I will update
+[1016.00s -> 1018.00s]  here
+[1018.00s -> 1020.00s]  documentation is complete I will
+[1020.00s -> 1022.00s]  share it with me here today
+[1022.00s -> 1024.00s]  I will share it after stand up for
+[1024.00s -> 1026.00s]  print to review
+[1026.00s -> 1028.00s]  we had a chat with Antonio yesterday
+[1028.00s -> 1030.00s]  so he is not
+[1030.00s -> 1032.00s]  looking very confident so make sure
+[1032.00s -> 1034.00s]  we had this meeting today
+[1034.00s -> 1036.00s]  yeah fight
+[1036.00s -> 1038.00s]  the throne is also there
+[1038.00s -> 1040.00s]  yeah yeah
+[1040.00s -> 1042.00s]  and for this throne there is the ticket
+[1042.00s -> 1044.00s]  and but
+[1044.00s -> 1046.00s]  for the rest of the things we have
+[1046.00s -> 1048.00s]  this is just regarding
+[1048.00s -> 1050.00s]  only this tape
+[1050.00s -> 1052.00s]  yeah
+[1052.00s -> 1054.00s]  only this tape
+[1054.00s -> 1056.00s]  rest of the things has been done
+[1056.00s -> 1058.00s]  have you moved that
+[1058.00s -> 1060.00s]  yeah I made a bit change
+[1060.00s -> 1062.00s]  I have not yet moved to here but
+[1062.00s -> 1064.00s]  this is blocking
+[1064.00s -> 1066.00s]  ecom
+[1066.00s -> 1068.00s]  actually one in ecom
+[1068.00s -> 1070.00s]  and one in customer
+[1070.00s -> 1072.00s]  so if I get access to this
+[1072.00s -> 1074.00s]  I will be able to move
+[1076.00s -> 1078.00s]  here
+[1078.00s -> 1080.00s]  okay
+[1082.00s -> 1084.00s]  yeah
+[1084.00s -> 1086.00s]  for 15 output table is created
+[1086.00s -> 1088.00s]  I will be adding few more
+[1088.00s -> 1090.00s]  callings to the table otherwise it is done
+[1090.00s -> 1092.00s]  16 I have shared the dashboard
+[1092.00s -> 1094.00s]  for review with
+[1094.00s -> 1096.00s]  Vivian she asked me to make a change
+[1096.00s -> 1098.00s]  completed today
+[1098.00s -> 1100.00s]  and also lens parts
+[1100.00s -> 1102.00s]  info has already moved to Prada
+[1102.00s -> 1104.00s]  I moved it yesterday
+[1104.00s -> 1106.00s]  I will transfer it to you next plate
+[1106.00s -> 1108.00s]  come in
+[1108.00s -> 1110.00s]  and close the studio
+[1114.00s -> 1116.00s]  there is one replication alert
+[1116.00s -> 1118.00s]  for CNA alert system
+[1118.00s -> 1120.00s]  some table it was saying
+[1120.00s -> 1122.00s]  there was zero
+[1122.00s -> 1124.00s]  rows on the table
+[1124.00s -> 1126.00s]  CNA alert master
+[1126.00s -> 1128.00s]  yeah I just saw it
+[1128.00s -> 1130.00s]  I will check it
+[1130.00s -> 1132.00s]  you will take care of it
+[1132.00s -> 1134.00s]  yeah I will just check it now
+[1134.00s -> 1136.00s]  it is one
+[1136.00s -> 1138.00s]  there is one table which keep on coming
+[1138.00s -> 1140.00s]  no no this is
+[1140.00s -> 1142.00s]  this game
+[1142.00s -> 1144.00s]  this game now
+[1144.00s -> 1146.00s]  40 am
+[1146.00s -> 1148.00s]  I will check this
+[1148.00s -> 1150.00s]  I will check this
+[1150.00s -> 1152.00s]  this is something
